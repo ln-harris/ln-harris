@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lindsey
-- 👀 I’m interested in becoming a Full Stack Software Engineer
+- 💼 I'm a Full Stack Software Engineer
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me email or phone
