@@ -1,4 +1,4 @@
-👋 Hi, I’m Lindsey Harris
+👋 Hi, I’m Lindsey
 💻 Full Stack Software Engineer | Passionate about building scalable, user-friendly applications
 🚀 Experienced in HTML, CSS, JavaScript, React, Node.js, Express
 🤝 Open to collaborating on innovative projects in web development, automation, and data-driven solutions
