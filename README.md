@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Lindsey
-- 💼 I'm a Full Stack Software Engineer
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me email or phone
-- ⚡ Fun fact: I have a motorcycle
+👋 Hi, I’m Lindsey Harris
+💻 Full Stack Software Engineer | Passionate about building scalable, user-friendly applications
+🚀 Experienced in HTML, CSS, JavaScript, React, Node.js, Express
+🤝 Open to collaborating on innovative projects in web development, automation, and data-driven solutions
+📬 Reach me at: harrisnl95@gmail.com
+⚡ Fun fact: Outside of coding, I love riding my motorcycle and exploring new challenges
 
 <!---
 ln-harris/ln-harris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
