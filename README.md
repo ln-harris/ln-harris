@@ -1,6 +1,5 @@
 <ul>
-<li>👋 Hi, I’m Lindsey</li>
-<li>📍Arizona🌵</li>
+<li>👋 Hi, I’m Lindsey📍Arizona🌵</li>
 <li>💻 Full Stack Software Engineer | Passionate about building scalable, user-friendly applications</li>
 <li>🚀 Experienced in HTML, CSS, JavaScript, React, Node.js, Express</li>
 <li>🤝 Open to collaborating on innovative projects in web development, automation, and data-driven solutions</li>
