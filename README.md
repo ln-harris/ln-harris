@@ -1,3 +1,5 @@
+<h1>Hi👋 I'm Lindsey</h1>
+<h2>Portfolio</h2>
 <ul>
 <li>👋 Hi, I’m Lindsey📍Arizona🌵</li>
 <li>💻 Full Stack Software Engineer | Passionate about building scalable, user-friendly applications</li>
